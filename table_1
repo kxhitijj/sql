@@ -17,8 +17,8 @@ CREATE TABLE Borrowers (
 INSERT INTO Authors (author_id, author_name, author_email)
 VALUES 
     (1, 'J.K. Rowling', 'kshitij@gmaIil.com'),
-    (2, 'Stephen King', 'nomoney@gmail.com'),
-    (3, 'Harper Lee', 'harpic@example.com');
+    (2, 'Starlockkkk', 'nomoney@gmail.com'),
+    (3, 'Harmandeep', 'harpic@example.com');
 
 INSERT INTO Books (book_id, book_title, author_id)
 VALUES 
