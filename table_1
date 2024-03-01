@@ -27,8 +27,8 @@ VALUES
     (103, 'To Kill a Mockingbird', 3);
 INSERT INTO Borrowers (borrower_id, borrower_name, borrower_email)
 VALUES 
-    (201, 'Alice Johnson', 'alice@example.com'),
-    (202, 'Bob Smith', 'bob@example.com');
+    (269, 'Khushwant Singh', 'kushwantsingh@example.com'),
+    (270, 'R.K. Narayan', 'naryanrk@example.com');
 SELECT * FROM Authors;
 SELECT * FROM Books;
 SELECT * FROM Borrowers;
